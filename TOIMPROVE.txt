@@ -1,0 +1,8 @@
+* Add multiple options of comments at each level of positivity for each aspect.
+
+* Include similar comments with variation in semantics/structure
+
+* Introduce aspects to report on: Effort, Quality of Work, Written Communication, Verbal Communication, Engagement in Class, Homework
+** Display comment options to user for each aspect reported on
+
+* IDEA: Implement as webpage using Flask. Use buttons to select comments. 
